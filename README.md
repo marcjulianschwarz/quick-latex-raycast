@@ -1,6 +1,6 @@
 # Quick LaTeX
 
-> A rewrite of the original [Quick LaTeX extension] to support AI commands.
+> A rewrite of the original [Quick LaTeX extension](https://github.com/Noamko/QuickLaTeX) to support AI commands.
 
 Converts LaTeX text to image. Copy the image to the Clipboard.
 
